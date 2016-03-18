@@ -1,0 +1,7 @@
+$TTL    1h
+$ORIGIN test.
+@       SOA     ns.lokaltog.net. admin.lokaltog.net. (2016031816 8h 2h 30d 1d)
+        NS      ns.lokaltog.net.
+
+*.test.         A       127.0.0.1
+                AAAA    ::1
