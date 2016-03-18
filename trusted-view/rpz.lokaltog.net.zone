@@ -2,4 +2,4 @@ $TTL    1h
 @       SOA     ns.lokaltog.net. admin.lokaltog.net. (2016031810 1d 2h 30d 1d)
         NS      ns.lokaltog.net.
 
-$INCLUDE rpz.lokaltog.net-blacklist.db
+$INCLUDE trusted-view/rpz.lokaltog.net-blacklist.db
